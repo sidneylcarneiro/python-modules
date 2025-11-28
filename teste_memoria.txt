@@ -1,0 +1,8 @@
+--- [2025-11-28 09:59:02] ---
+USUARIO: Olá, como você está?
+GEMINI: Estou bem, obrigado por perguntar!
+
+--- [2025-11-28 09:59:28] ---
+USUARIO: Olá, como você está?
+GEMINI: Estou bem, obrigado por perguntar!
+
